@@ -2,11 +2,11 @@
 
 Cards est un cours jeu fait durant mon année de terminale. Il s'agit d'un RPG entièrement sous Python, totalement jouable via la commande, inspiré de Slay the Spire. Les consignes étaient les suivantes:
 
-  -Le projet doit être entièrement en programmation orientée objets.
+    -Le projet doit être entièrement en programmation orientée objets.
   
-  -Il doit proposé plusieurs moyens de vaincre un ennemi, voir même la fuite.
+    -Il doit proposé plusieurs moyens de vaincre un ennemi, voir même la fuite.
   
-  -Il doit être jouable via la commande.
+    -Il doit être jouable via la commande.
   
 Nous avons donc avec mon coéquipier, comme dit plus tôt, choisi de s'inspirer de Slay the Spire dans le gameplay général.
 Dans ce jeu, vous incarné quelqu'un d'amnésique, le Héro, qui attérit dans une grotte (?) sans savoir comment, accompagné d'une petite fille, Emily, elle aussi perdue.
